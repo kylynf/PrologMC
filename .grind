@@ -1,0 +1,12 @@
+{
+    "assignmentID": 1113,
+    "problems": {
+        "cs3520-prolog-missionaries": {
+            "id": 40,
+            "step": 1,
+            "whitelist": {
+                "missionaries.pl": true
+            }
+        }
+    }
+}
